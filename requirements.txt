@@ -48,7 +48,6 @@ bqplot
 qiskit
 qiskit-ibm-runtime
 qiskit_aer
-qiskit-visualization
 qiskit-terra
 qiskit-ignis
 qiskit-aqua
