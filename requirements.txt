@@ -43,3 +43,25 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Qiskit libraries
+qiskit
+qiskit-ibm-runtime
+install qiskit_aer
+qiskit-visualization
+qiskit-terra
+qiskit-ignis
+qiskit-aqua
+qiskit-ibmq-provider
+qiskit-nature
+qiskit-finance
+qiskit-optimization
+qiskit-machine-learning
+pylatexenc
+qiskit-experiments
+qiskit-dynamics
+qiskit-optimization
+qiskit-metal
+
+
+
