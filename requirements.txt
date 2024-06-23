@@ -47,7 +47,7 @@ bqplot
 # Qiskit libraries
 qiskit
 qiskit-ibm-runtime
-install qiskit_aer
+qiskit_aer
 qiskit-visualization
 qiskit-terra
 qiskit-ignis
