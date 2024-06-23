@@ -59,9 +59,9 @@ qiskit-ibm-runtime
 qiskit_aer
 qiskit-terra
 qiskit-ignis
-qiskit-aqua
+#qiskit-aqua
 qiskit-ibmq-provider
-qiskit-nature
+#qiskit-nature
 qiskit-finance
 qiskit-optimization
 qiskit-machine-learning
